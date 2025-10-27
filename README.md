@@ -21,5 +21,4 @@ Jadi begini, pelanggan akan datang ke toko, dan bisa duduk di meja yang sudah ad
 
 ---
 
-NIM 221111489
-NIM 221112432
+NIM 221111489 & NIM 221112432
